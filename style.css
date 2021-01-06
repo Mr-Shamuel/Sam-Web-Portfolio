@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans TC', sans-serif;
+
+}
+
+
+.nav a{
+    float: left;
+    text-decoration: none;
+    padding: 20px 20px;
+    font-weight: bold;
+    color:rgb(37, 31, 31);
+    font-size: 18px;
+}
+.nav{
+    float: right;
+    padding-right: 15%;
+    
+}
+.nav a:hover{
+    color:red
+}
+.name-highlight{
+    color: orangered;
+  
+}
+
+.half-width{
+    float: left;
+    width: 35%;
+    margin-left: 5%;
+    padding-left: 2%;
+
+   
+
+}
+
+
+h1{
+    font-size: 50px;
+}
+.h1new{
+    line-height: 0px;
+}
+.half-width img{
+    width: 100%;
+
+ 
+}
+p{
+    color: dimgray;
+    font-size: 14px;
+}
+
+.top-banner{
+height: 500px;
+padding-bottom: 100px;
+}
+.link-btn{
+    text-decoration: none;
+    background:  linear-gradient(90deg,red,blue);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+
+
+}
+.link-btn:hover{
+    color:black;
+
+
+}
+ section{
+     height: 600px;
+ }
+ .last-work{
+    background:rgb(194, 179, 179);
+ }
+ .last-work h1{
+
+     text-align: center;
+     padding-top: 50px;
+    
+ }
+ .pic{
+     margin: 2% 8%;
+     width: 100%;
+ 
+ }
+ .pic1{
+    float: left;
+     width: 25%;
+     padding-left: 2%;
+ 
+    
+ }
+ .pic img{
+     width: 100%;
+     
+ }
+ .x{
+    box-shadow: 5px 5px 15px red;
+    margin-right: 30px;
+     background: white;
+     border-radius: 10px;
+    
+
+ }
+ .btm-bnr{
+     background: url("images/btm-bnr.png");
+     background-repeat: no-repeat;
+     background-position: center;
+     width: 50%;
+     border-radius: 20px;
+     margin: 5% auto;
+     padding: 10px;
+
+    
+ }
+ .work{
+     color: white;
+   
+     display: inline-block;
+     padding: 10px;
+  
+ }
+ .btm-link{
+     float: right;
+     text-decoration: none;
+     color: black;
+     background:linear-gradient(90deg,red, tomato);
+padding: 10px;
+border-radius: 7px;
+margin-top: 71px;
+margin-right: 5%;
+    
+ }
+
+ .btm-link:hover{
+color: white;
+background: linear-gradient(45deg,yellow,black);
+ }
+
+ .footer{
+     text-align: center;
+ }
+ .icon img{
+     height: 30px;
+     width: 30px;
+     padding: 7px;
+ }
+ .icon img:hover{
+     font-size: 30px;
+ }
+
+
+
+
+
+
