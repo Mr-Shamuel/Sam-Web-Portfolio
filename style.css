@@ -154,6 +154,15 @@ background: linear-gradient(45deg,yellow,black);
  .icon img:hover{
      font-size: 30px;
  }
+ .about{
+     text-align: center;
+ }
+ .about h1{
+     color: tomato;
+ }
+ .hr{
+     color: red;
+ }
 
 
 
